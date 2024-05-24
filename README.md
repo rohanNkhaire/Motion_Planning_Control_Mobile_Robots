@@ -1,10 +1,10 @@
 # Motion Planning and COntrol of Mobile Robot #
 
 ### Map navigation ###
-![](media/map_navigation.mp4)
+![](media/map_navigation.gif)
 
 ### Mapless navigation ###
-![](media/mapless_navigation.mp4)
+![](media/mapless_navigation.gif)
 
 ## Objective ##
 This repo applies Motion Planning and Control algorithms to move the mobile robot to a goal destination.
