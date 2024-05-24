@@ -1,4 +1,4 @@
-# Motion Planning and COntrol of Mobile Robot #
+# Motion Planning and Control of Mobile Robot #
 
 ### Map navigation ###
 ![](media/map_navigation.gif)
